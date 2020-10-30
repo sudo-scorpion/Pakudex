@@ -36,7 +36,7 @@ public class Pakudex
 
             String[] container = new String[i];
 
-            for (int j = 0; i < container.length; j++) {
+            for (int j = 0; j < container.length; j++) {
                 container[j] = size[j].getSpecies();
             }
 
